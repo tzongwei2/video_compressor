@@ -1,1 +1,1 @@
-moviepy==1.0.3i
+moviepy==1.0.3

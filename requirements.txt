@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 moviepy==1.0.3
-=======
-moviepy==1.0.3
->>>>>>> 0c288dc3bdfe9c2bbc4315357fb73c73de8a4d78
